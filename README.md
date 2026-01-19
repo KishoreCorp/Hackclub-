@@ -1,0 +1,2 @@
+# Hackclub-
+everything for hackclub
